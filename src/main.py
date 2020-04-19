@@ -1,5 +1,5 @@
 def main():
-	print('AQUI E MAIN PAI')
+	print('AQUI E MIGGE PAI')
 	
 if __name__ == '__main__':
 	main()
