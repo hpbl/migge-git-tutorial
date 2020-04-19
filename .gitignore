@@ -1,0 +1,5 @@
+# ignora o arquivo abaixo
+.DS_Store
+
+# ignora todos os arquivos na pasta build
+build/
